@@ -14,5 +14,5 @@
 
 1. Склонируй репозиторий  
    ```bash
-   git clone https://github.com/tonyaihub/.git
+   git clone https://github.com/tonyaihub/smmapp.git
    cd outrank-personal
