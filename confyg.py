@@ -1,0 +1,9 @@
+OPENAI_API_KEY = 'your-openai-key'
+DEEPL_API_KEY = 'your-deepl-key'
+SERPAPI_KEY = 'your-serpapi-key'  # For keyword research
+WORDPRESS_URL = 'https://your-site.com/wp-json/wp/v2'
+WORDPRESS_USER = 'username'
+WORDPRESS_PASS = 'application-password'  # Use WP Application Passwords
+NICHE = 'your-business-niche'  # e.g., 'tech gadgets'
+COMPETITORS = ['competitor1.com', 'competitor2.com']
+TARGET_AUDIENCE = 'tech enthusiasts'
