@@ -14,5 +14,5 @@
 
 1. Склонируй репозиторий  
    ```bash
-   git clone https://github.com/yourusername/outrank-personal.git
+   git clone https://github.com/tonyaihub/.git
    cd outrank-personal
