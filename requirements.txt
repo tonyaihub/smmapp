@@ -3,9 +3,9 @@ openai
 googlesearch-python
 beautifulsoup4
 requests
-tweepy
-wordpress-api
-pillow
+tweepy. # Для X (Twitter)
+wordpress-api.  # Для WordPress (pip install wordpress-api)
+pillow  # Для обработки изображений
 google-api-python-client
 facebook-sdk
 praw
