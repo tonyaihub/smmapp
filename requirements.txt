@@ -1,0 +1,27 @@
+### 2. requirements.txt
+
+```text
+streamlit>=1.31.0
+openai>=1.0.0
+googlesearch-python
+beautifulsoup4
+requests
+tweepy
+wordpress-api
+pillow
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+facebook-sdk
+praw
+apscheduler
+moviepy
+elevenlabs
+runwayml  # или закомментируй, если не используешь
+google-analytics-data
+reportlab
+keyring
+python-dotenv
+streamlit-aggrid
+matplotlib
+pandas
